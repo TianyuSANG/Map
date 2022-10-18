@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TestPrint.dir/objects.a
-C:\PROGRA~1\mingw64\bin\ar.exe qc CMakeFiles\TestPrint.dir/objects.a @CMakeFiles\TestPrint.dir\objects1.rsp
-C:\PROGRA~1\mingw64\bin\gcc.exe  -O0 -Wall -g -ggdb -std=c11 -Wl,--whole-archive CMakeFiles\TestPrint.dir/objects.a -Wl,--no-whole-archive -o bin\TestPrint.exe -Wl,--out-implib,bin\libTestPrint.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestPrint.dir\linklibs.rsp
