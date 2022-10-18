@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TestHeap.dir/objects.a
+C:\PROGRA~1\mingw64\bin\ar.exe qc CMakeFiles\TestHeap.dir/objects.a @CMakeFiles\TestHeap.dir\objects1.rsp
+C:\PROGRA~1\mingw64\bin\gcc.exe  -O0 -Wall -g -ggdb -std=c11 -Wl,--whole-archive CMakeFiles\TestHeap.dir/objects.a -Wl,--no-whole-archive -o bin\TestHeap.exe -Wl,--out-implib,bin\libTestHeap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestHeap.dir\linklibs.rsp
